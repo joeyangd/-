@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # web19youyi-ui
 
 ## Project setup
@@ -27,3 +28,6 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+=======
+# -
+>>>>>>> 587485bfc43e651e8935285fc3201852bdc7ecb1
